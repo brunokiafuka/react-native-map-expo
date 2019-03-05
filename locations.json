@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Sandton, South Africa",
+        "address": "Sandton, South Africa",
+        "coords:": {
+            "latitude": -26.107567,
+            "longitude":  28.056702
+        }
+    },
+    {
+        "name": "Randburg, South Africa",
+        "address": "Randburg, South Africa",
+        "coords:": {
+            "latitude": -26.093611,
+            "longitude": 28.006390
+        }
+    }
+    
+]
